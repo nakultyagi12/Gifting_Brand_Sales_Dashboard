@@ -3,7 +3,7 @@
 ## 📊 Dashboard Preview
 
 ![Dashboard Preview](Dashboard%20F%26P.png)
-
+---
 
 ## 📌 About the Project
 This project analyzes sales data from **Ferns and Petals (FNP)**—a company known for delivering gifts for various occasions like birthdays, anniversaries, Diwali, Raksha Bandhan, Valentine's Day, and more. The goal of this dashboard is to uncover key sales insights, track product and customer trends, and help improve decision-making using real business data.
@@ -36,7 +36,6 @@ This project analyzes sales data from **Ferns and Petals (FNP)**—a company kno
 - Data Validation & Named Ranges  
 - Conditional Formatting  
 - Dynamic Chart Titles & Formatting  
-- Basic Formulas (`SUMIFS`, `AVERAGEIFS`, `TEXT`, `IF`, etc.)
 
 ---
 
